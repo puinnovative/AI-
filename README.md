@@ -7,15 +7,16 @@ AI从知识体系来说，主要分为数学，机器学习，深度学习。
 
 NLP领域的，我主要感兴趣理解，对话这些东西。
 
-首先，对文本要进行数学化表示：（表示方法）
-1，One-Hot
-2，BOW
-3，TF-IDF
-4，n-gram
-5，Co-Occurrence Matrix
-6，word2vec
-7，GloVe
-8，ELMo
+首先，对文本要进行数学化表示：（表示方法）<br>
+1，One-Hot<br>
+2，BOW<br>
+3，TF-IDF<br>
+4，n-gram<br>
+5，Co-Occurrence Matrix<br>
+6，word2vec<br>
+7，GloVe<br>
+8，ELMo<br>
+9，Bert<br>
 
 ![](./Imgs/seq2seq.png)
 
