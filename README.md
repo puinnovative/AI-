@@ -16,5 +16,6 @@ NLP领域的，我主要感兴趣理解，对话这些东西。
 6，word2vec
 7，GloVe
 8，ELMo
+
 ![](./Imgs/seq2seq.jpeg)
 
