@@ -24,3 +24,6 @@ NLP领域主要的研究方法包括：了解模型——》了解思想，数�
 
 目前在NLP领域，整个机器学习的过程可以分为：
 tokenization——》encodeing——》word2vec——》（模型），主要发展历史：SIMPLE CNN——》LSTM——》SEQ2SEQ——》ATTENTION——》TRANSFORMER——》BERT
+
+NLP主要应用领域：
+文本分类，词性标注，聊天机器人，翻译，文本摘要。
