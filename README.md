@@ -22,3 +22,5 @@ NLP领域的，我主要感兴趣理解，对话这些东西。
 
 NLP领域主要的研究方法包括：了解模型——》了解思想，数学方法——》工程库
 
+目前在NLP领域，整个机器学习的过程可以分为：
+tokenization——》encodeing——》word2vec——》（模型），主要发展历史：SIMPLE CNN——》LSTM——》SEQ2SEQ——》ATTENTION——》TRANSFORMER——》BERT
