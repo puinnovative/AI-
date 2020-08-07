@@ -1,6 +1,6 @@
 # Results
 ![](./Imgs/chat.png)<br>
-基于seq2seq的生成式的对话机器人（迭代十个周期的结果）
+基于seq2seq的生成式的对话机器人（迭代13个周期的结果）
 
 # Model
 ![](./Imgs/seq2seq.png)
